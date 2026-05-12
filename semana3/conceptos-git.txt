@@ -1,0 +1,3 @@
+Repositorio: Imagínalo como una caja inteligente donde guardamos todo el proyecto. No solo guarda los archivos, sino que también lleva un diario detallado de cada pequeño cambio que hacemos, permitiéndonos trabajar sin miedo a perder nada.
+Commit: Es como tomar una fotografía de cómo va nuestro trabajo en un momento exacto. Al hacer un commit, le ponemos una etiqueta a ese momento para poder regresar a él si algo sale mal más adelante.
+Push: Es el comando que usamos para enviar nuestras fotos y avances desde el celular hacia la nube en GitHub. Así, nuestro código está seguro y otros pueden ver lo que hemos logrado.

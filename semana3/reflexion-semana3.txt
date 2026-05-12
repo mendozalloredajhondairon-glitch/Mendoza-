@@ -1,0 +1,11 @@
+Usar herramientas como Git es fundamental porque nos da orden
+y seguridad en un mundo tan caótico como el desarrollo de software.
+Imagina trabajar en un proyecto grande y que, por un error,
+se borre todo; con Git, ese miedo desaparece porque tenemos
+un historial de cambios que funciona como una máquina del tiempo.
+Además, nos permite ser transparentes y organizados, ya que cada
+modificación tiene un nombre y una fecha. Para nosotros como
+estudiantes, aprender esto desde ahora es vital porque es el estándar
+que se usa en el mundo real para colaborar con otros programadores
+sin hacer un desastre con los archivos. Básicamente, Git es el
+respaldo de nuestro esfuerzo y la base de un trabajo profesional.
