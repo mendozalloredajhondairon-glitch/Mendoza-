@@ -1,0 +1,2 @@
+Al visitar la ruta raíz http://localhost:3000, el servidor responde con el mensaje 'Servidor activo'.
+​Al acceder a la ruta /saludo, el navegador muestra el texto 'Hola comunidad'.
